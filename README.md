@@ -70,11 +70,11 @@ flutter devices
 要看到 emulator 類似：
 emulator-5554 • android-x64
 
-6) 下載並執行我的專案
+6) 下載並在 vs_code 執行我的專案
 
 取得專案資料夾（例如 flutter_application_1）
 
-進入專案根目錄（要看得到 pubspec.yaml）
+進入專案根目錄（要看得到 pubspec.yaml在檔案倒數第二）
 
 cd <你的專案路徑>\flutter_application_1
 dir pubspec.yaml
