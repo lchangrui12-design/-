@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=-z1DcFsZlpc&t=2s    //後面步驟可能不一�
 3.vs_code
 
 
-3) 安裝 Flutter（Stable）
+2) 安裝 Flutter（Stable）
 
 下載 Flutter SDK（stable）解壓到例如：
 C:\src\flutter(看你要壓哪)
@@ -24,12 +24,12 @@ flutter doctor
 有跑出東西代表有!!!!
 
 
-4)開vs_code
+3)開vs_code
 
   左邊欄位 按"extension" 分別搜尋 Dart 跟Flutter並下載
 
 
-5)安裝 Android Studio（含 Android SDK / Emulator）//
+4)安裝 Android Studio（含 Android SDK / Emulator）//
 安裝 Android Studio（預設選項即可）
 
 開 Android Studio → SDK Manager
@@ -52,7 +52,7 @@ SDK Tools：勾選
 
 & "$env:LOCALAPPDATA\Android\Sdk\platform-tools\adb.exe" version
 
-6) 建立模擬器（建議 Android 14 / API 34）
+5) 建立模擬器（建議 Android 14 / API 34）
 
 Android Studio → More Actions → Virtual Device Manager / Device Manager
 
@@ -72,7 +72,7 @@ flutter devices
 要看到 emulator 類似：
 emulator-5554 • android-x64
 
-7) 下載並執行我的專案
+6) 下載並執行我的專案
 
 取得專案資料夾（例如 flutter_application_1）
 
