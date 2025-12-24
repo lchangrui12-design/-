@@ -29,9 +29,9 @@ flutter doctor
   左邊欄位 按"extension" 分別搜尋 Dart 跟Flutter並下載
 
 
-4)安裝 Android Studio（含 Android SDK / Emulator）//
-安裝 Android Studio（預設選項即可）
+4)安裝 Android Studio（含 Android SDK / Emulator）
 
+安裝 Android Studio（預設選項即可）
 開 Android Studio → SDK Manager
 
 SDK Platforms：至少裝 Android 14 (API 34)
