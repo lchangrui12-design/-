@@ -48,9 +48,7 @@ SDK Tools：勾選
 
 套用後關閉
 
-驗證 adb：
 
-& "$env:LOCALAPPDATA\Android\Sdk\platform-tools\adb.exe" version
 
 5) 建立模擬器（建議 Android 14 / API 34）
 
