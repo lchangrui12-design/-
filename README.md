@@ -4,22 +4,25 @@ https://www.youtube.com/watch?v=-z1DcFsZlpc&t=2s    //後面步驟可能不一�
 
 
 1) 先準備
-Windows 10/11
-需要網路（下載 SDK / Gradle / system image）
-vs_code
+1.Windows 10/11
+2.需要網路（下載 SDK / Gradle / system image）
+3.vs_code
+
 
 3) 安裝 Flutter（Stable）
 
 下載 Flutter SDK（stable）解壓到例如：
-
 C:\src\flutter(看你要壓哪)
 
-把 C:\src\flutter\bin 加到系統 PATH
+把 C:\src\flutter\bin 加到系統 PATH  //看影片
 
 開 PowerShell 驗證有無下載：
 
 flutter --version
 flutter doctor
+
+有跑出東西代表有!!!!
+
 
 4)開vs_code
 
@@ -27,12 +30,11 @@ flutter doctor
 
 
 5)安裝 Android Studio（含 Android SDK / Emulator）//
-
 安裝 Android Studio（預設選項即可）
 
 開 Android Studio → SDK Manager
 
-SDK Platforms：至少裝 Android 14 (API 34)（或老師要求版本）
+SDK Platforms：至少裝 Android 14 (API 34)
 
 SDK Tools：勾選
 
